@@ -40,7 +40,7 @@ application, allowing the architecture to evolve over time.
 
 Introduction to the project and the ideas behind this series.
 
-[Read the article](YOUR-BLOG-URL)
+[Read the article](https://cmas.dev/en/posts/2026-09-16-why-reinvesting-on-windev-dotnet-2026/)
 
 ### 02 — Building a Modern Windows App with .NET and Windows App SDK
 
